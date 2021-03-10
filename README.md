@@ -3,6 +3,10 @@
 
 ![Kal](https://user-images.githubusercontent.com/75472335/110576973-b7412500-8187-11eb-9ad9-5ad6d1eb6b91.jpg)
 
+![20210310_165102](https://user-images.githubusercontent.com/75472335/110621996-e6c05380-81c0-11eb-8238-0c36fae054d1.jpg)
+By writing $ nh comand to run KaliLinux in termux
+Or you can write $ nh -r to run KaliLinux as root
+
 # Install-KaliLinux-In-Android
 
 ☆Today I will Teach you How to install KaliLinux in your Android Phone By Using Termux
