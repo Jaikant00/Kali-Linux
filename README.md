@@ -65,7 +65,10 @@ $ nh -r
 
 <h2>INSTRUCTIONS</h2>
 
-Kali Linux is mainly used for advanced Penetration Testing and Security Auditing.
-Kali contains several hundred tools which are geared towards various information security tasks, such as Penetration Testing, Security research, Computer Forensics and Reverse Engineering.
+☆Kali Linux is mainly used for advanced Penetration Testing and Security Auditing.
+  Kali contains several hundred tools which are geared towards various information security tasks, such as Penetration Testing, Security research, Computer Forensics and Reverse Engineering.
 
-<h1>(Enjoy your kalilinux)</h2>
+☆You Can use varios Hacking tools such as shark for Phishing attacks, Brute Force attack, Metasploit, And many other Hacking Tools
+  Which You can use smoothly in your Android Phone
+
+<h1>(Enjoy your kalilinux😎)</h2>
