@@ -76,4 +76,4 @@ $ nh -r
 ☆You Can use varios Hacking tools such as shark for Phishing attacks, Brute Force attack, Metasploit, And many other Hacking Tools
   Which You can use smoothly in your Android Phone
 
-<h1>(Enjoy your kalilinux😎)</h2>
+<h1>(Enjoy your kaliLinux😎)</h2>
