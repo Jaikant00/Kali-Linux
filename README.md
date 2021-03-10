@@ -5,7 +5,8 @@
 # Install-KaliLinux-In-Android
 
 ☆Today I will Teach you How to install KaliLinux in your Android Phone By Using Termux
-  So First of all You need 20GB Free in Your Phone
+
+☆So To install This Best Hacking Operating System You need atlest 20GB Free in Your Phone
 
 ☆This is very Easy To install this KaliLinux in your Android Device
 
