@@ -68,6 +68,8 @@ And to run KaliLinux As Root-Type
 
 $ nh -r
 
+![20210310_165102](https://user-images.githubusercontent.com/75472335/110621996-e6c05380-81c0-11eb-8238-0c36fae054d1.jpg)
+
 <h2>INSTRUCTIONS</h2>
 
 ☆Kali Linux is mainly used for advanced Penetration Testing and Security Auditing.
