@@ -55,4 +55,12 @@ $ nethunter kex &
 
 (Now you were all done)
 
+You Can also run This KaliLinux in Your termux Directly by Typing 
+
+$ nh
+
+And to run KaliLinux As Root-Type
+
+$ nh -r
+
 <h1>(Enjoy your kalilinux)</h2>
