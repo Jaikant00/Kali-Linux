@@ -17,8 +17,6 @@ Or you can write ($ nh -r) to run KaliLinux as root
 
 ☆Just You have to follow this Installation Steps
 
-And Now You Have Installed The Latest Virson Of KaliLinux In Your Android Phone👍
-
 <h2>INSTALLATION</h2>
 
 $ termux-setup-storage
@@ -61,6 +59,8 @@ $ nethunter kex &
 {And the final step is to click on (Connect)}
 
 (Now you were all done)
+
+And Now You Have Installed The Latest Virson Of KaliLinux In Your Android Phone👍
 
 You Can also run This KaliLinux in Your termux Directly by Typing 
 
