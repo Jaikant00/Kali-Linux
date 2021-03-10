@@ -63,4 +63,9 @@ And to run KaliLinux As Root-Type
 
 $ nh -r
 
+<h2>INSTRUCTIONS</h2>
+
+Kali Linux is mainly used for advanced Penetration Testing and Security Auditing.
+Kali contains several hundred tools which are geared towards various information security tasks, such as Penetration Testing, Security research, Computer Forensics and Reverse Engineering.
+
 <h1>(Enjoy your kalilinux)</h2>
