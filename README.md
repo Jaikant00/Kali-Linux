@@ -36,8 +36,9 @@ $ ./install-nethunter-termux
 (Now be patient)😎
 (It should take about 30 minutes to install all files of kalilinux in your android phone 👍)
 
-Now It Will Look Like This
+☆Now It Will Look Like This
 
+![IMG-20210312-WA0001](https://user-images.githubusercontent.com/75472335/110891110-547e9380-8317-11eb-8786-392ad512cc79.jpg)
 
 (Now write)
 
